@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": "17.99"
     },
     {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": "26.98"
     },
     {
       "id": 3,
@@ -22,13 +22,13 @@
       "id": 4,
       "name": "Pothos",
       "image": "./images/pothos.jpg",
-      "price": 12.11
+      "price": "12.99"
     },
     {
       "id": 5,
       "name": "Jade",
       "image": "./images/jade.jpg",
-      "price": 10.37
+      "price": "10.49"
     },
     {
       "id": 6,
@@ -40,13 +40,7 @@
       "id": 7,
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
-    },
-    {
-      "name": "Snake Plant",
-      "image": "https://m.media-amazon.com/images/I/71vWeRmnbpL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-      "price": 27.99,
-      "id": 8
+      "price": "54.99"
     }
   ]
 }
